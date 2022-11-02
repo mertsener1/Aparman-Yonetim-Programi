@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tg6eeFrYOgO9ZUksTaVxpDtdYMW7qndcYDIi+LxlDhyVoV5H6B+qorrdYvgPM7PoR4iiiljvvZZ/vroZbQg+Cg==",
+  "dgSpecHash": "+W+Exk5Pb4yRkNn+OhEqTOGhGDAC/te/7v+iW7S0xbeMNWF89aICWMD/MR6BXj9SspmuT6XrrvIORf6+N22Dqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\merts\\source\\repos\\Yonetim\\Yonetim\\Yonetim.csproj",
+  "projectFilePath": "C:\\Users\\merts\\Desktop\\git\\Aparman-Yonetim-Programi\\Yonetim\\Yonetim\\Yonetim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merts\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\merts\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

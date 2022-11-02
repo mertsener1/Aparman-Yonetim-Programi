@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merts\\source\\repos\\Yonetim\\Yonetim\\Yonetim.csproj": {}
+    "C:\\Users\\merts\\Desktop\\git\\Aparman-Yonetim-Programi\\Yonetim\\Yonetim\\Yonetim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merts\\source\\repos\\Yonetim\\Yonetim\\Yonetim.csproj": {
+    "C:\\Users\\merts\\Desktop\\git\\Aparman-Yonetim-Programi\\Yonetim\\Yonetim\\Yonetim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merts\\source\\repos\\Yonetim\\Yonetim\\Yonetim.csproj",
+        "projectUniqueName": "C:\\Users\\merts\\Desktop\\git\\Aparman-Yonetim-Programi\\Yonetim\\Yonetim\\Yonetim.csproj",
         "projectName": "Yonetim",
-        "projectPath": "C:\\Users\\merts\\source\\repos\\Yonetim\\Yonetim\\Yonetim.csproj",
+        "projectPath": "C:\\Users\\merts\\Desktop\\git\\Aparman-Yonetim-Programi\\Yonetim\\Yonetim\\Yonetim.csproj",
         "packagesPath": "C:\\Users\\merts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merts\\source\\repos\\Yonetim\\Yonetim\\obj\\",
+        "outputPath": "C:\\Users\\merts\\Desktop\\git\\Aparman-Yonetim-Programi\\Yonetim\\Yonetim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\merts\\AppData\\Roaming\\NuGet\\NuGet.Config",

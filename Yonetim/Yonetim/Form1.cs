@@ -33,7 +33,7 @@ namespace Yonetim
                 
 
             }
-            else MessageBox.Show("Şifre yanlış kardeş");
+            else MessageBox.Show("Şifre yanlış");
 
         }
 
