@@ -61,7 +61,7 @@ namespace Yonetim
         {
             verilerigoster();
         }
-
+        //kullanilmayan kod
         private void button2_Click(object sender, EventArgs e)
         {
             
@@ -73,43 +73,43 @@ namespace Yonetim
             fr.Show();
             this.Hide();
         }
-
+        //kullanilmayan kod
         private void button3_Click(object sender, EventArgs e)
         {
             
         }
-
+        //kullanilmayan kod
         private void Form3_DoubleClick(object sender, EventArgs e)
         {
 
         }
-
+        //kullanilmayan kod
         private void listView1_DoubleClick(object sender, EventArgs e)
         {
             
         }
-
+        //kullanilmayan kod
         private void button5_Click(object sender, EventArgs e)
         {
 
         }
-
+         //kullanilmayan kod
         private void button4_Click(object sender, EventArgs e)
         {
             
 
         }
-
+        //kullanilmayan kod
         private void button6_Click(object sender, EventArgs e)
         {
 
         }
-
+       
         private void Form3_Load(object sender, EventArgs e)
         {
 
         }
-
+        //kullanilmayan kod
         private void label5_Click(object sender, EventArgs e)
         {
 
